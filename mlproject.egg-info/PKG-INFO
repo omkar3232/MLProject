@@ -1,4 +1,4 @@
-Metadata-Version: 2.2
+Metadata-Version: 2.1
 Name: mlproject
 Version: 0.0.1
 Author: omkar
@@ -6,6 +6,4 @@ Author-email: mangnaleomkar110.com
 Requires-Dist: pandas
 Requires-Dist: numpy
 Requires-Dist: seaborn
-Dynamic: author
-Dynamic: author-email
-Dynamic: requires-dist
+Requires-Dist: matplotlib
